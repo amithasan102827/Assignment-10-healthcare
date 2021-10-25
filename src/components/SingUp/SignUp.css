@@ -1,0 +1,44 @@
+.register-container{
+    text-align: center;
+    background-color: lightseagreen;
+    width: 40%;
+    height: 400px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 20px;
+}
+.register-form{
+    margin-top: 50px;
+}
+.register-form input{
+    width: 65%;
+    height: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+.btn-color{
+    background-color: hotpink;
+    color: white;
+    font-size: 20px;
+   
+}
+.btn-color:hover{
+    background-color: rgb(230, 54, 221);
+    color:white;
+}
+.text{
+    color: rgb(19, 18, 18);
+  
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn-link{
+    text-decoration: none;
+    color: yellow;
+}
+.singup-error{
+    color: red;
+}

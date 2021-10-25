@@ -1,0 +1,11 @@
+.details-container{
+   width: 100%;
+   margin: auto;
+   justify-content: center;
+   align-items: center;
+   margin-top: 30px;
+   margin-bottom: 50px;
+}
+.bg-color{
+    background-color: darkturquoise;
+}
